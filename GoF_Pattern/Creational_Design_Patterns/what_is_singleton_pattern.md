@@ -14,17 +14,15 @@
   * DB 커넥션 풀: 공유 데이터베이스 연결을 하나의 풀로 관리할 때
 
 ## 3. 구조 (Structure)
+![구조](https://github.com/hyunwook13/Pattern/blob/main/assets/singleton.jpeg)
 
-```
-[Client] ---> [Singleton]
-        uses      |  sharedInstance
-                  |
-                 [Singleton]
-```
-
-* Client 객체가 `Singleton.shared`에 전역적으로 접근하여 기능을 호출한다.
+1. Client 객체가 Singleton의 `getInstance()` 메소드에 전역적으로 접근하여 기능을 호출한다.
+2. 객체가 존재한다면 instance 변수의 값을 반환한다.
+3. 없다면 객체를 생성한 후 반환한다.
 
 ## 4. 참여자 (Participants)
+
+
 
 | 역할        | 책임                                           |
 | --------- | -------------------------------------------- |
