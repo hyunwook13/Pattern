@@ -12,6 +12,7 @@
 * [디자인 패턴이란 무엇인가?](https://github.com/hyunwook13/Pattern/blob/main/Pattern/what_is_design_pattern.md "디자인 패턴이란 무엇인가?")
   * [생성 패턴이란 무엇인가?](https://github.com/hyunwook13/Pattern/blob/main/GoF_Pattern/introduction_to_creational_desing_patterns.md "생성 패턴이란 무엇인가?")
     * [싱글턴 패턴이란 무엇인가?](https://github.com/hyunwook13/Pattern/blob/main/GoF_Pattern/Creational_Design_Patterns/what_is_singleton_pattern.md "싱글턴 패턴이란 무엇인가?")
+    * [팩토리 패턴이란 무엇인가?](https://github.com/hyunwook13/Pattern/blob/main/GoF_Pattern/Creational_Design_Patterns/what_is_factory_pattern.md "팩토리 패턴이란 무엇인가?")
 
 
 --- 
