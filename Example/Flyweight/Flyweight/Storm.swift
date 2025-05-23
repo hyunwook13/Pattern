@@ -1,5 +1,5 @@
 //
-//  Client.swift
+//  Storm.swift
 //  Flyweight
 //
 //  Created by 이현욱 on 5/24/25.
@@ -8,24 +8,17 @@
 import Foundation
 import SwiftUI
 
-class Client {
+class Storm {
+    var lastUpdate = Date.now
     var drops = [Rain]()
     
-    init(rainCount: Int) {
+    init(direction: Angle, rainCount: Int) {
         for _ in 0..<rainCount {
-            drops.append(StormDrop(type: type, direction: direction + .degrees(90)))
+            drops.append(RainFactory.createRain(direction:  direction + .degrees(90)))
         }
     }
     
-    func startRainAnimation() {
-        let rains = (0..<500).map { _ in
-            Rain(direction:
-        }
-    }
-    
-    func asd() {
-        
-        RainFactory.createRain(direction: Angle(degrees: Double.random(in: 0...360)))
+    func update(date: Date, size: CGSize) {
         var delta = date.timeIntervalSince1970 - lastUpdate.timeIntervalSince1970
         let divisor = size.height / size.width
         
@@ -48,6 +41,8 @@ class Client {
                 drop.y -= 1.4
             }
         }
+
+        lastUpdate = date
     }
 }
 
