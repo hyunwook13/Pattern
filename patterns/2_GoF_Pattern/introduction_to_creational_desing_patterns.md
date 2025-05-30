@@ -1,4 +1,4 @@
-
+<!-- pattern_name: 생성 패턴이란? -->
 # 🧱 Introduction to Creational Design Patterns
 
 ### **📘 생성 패턴**

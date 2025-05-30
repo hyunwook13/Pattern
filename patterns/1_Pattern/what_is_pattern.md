@@ -1,3 +1,5 @@
+<!-- pattern_name: 패턴이란? -->
+
 # **🔍 What is Pattern?**
 
   

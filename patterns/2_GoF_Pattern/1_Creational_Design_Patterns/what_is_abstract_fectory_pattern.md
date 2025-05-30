@@ -1,3 +1,5 @@
+<!-- pattern_name: Abstract Factory -->
+
 # **Abstract Factory**
 
   

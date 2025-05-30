@@ -1,3 +1,5 @@
+<!-- pattern_name: Singleton -->
+
 # Singleton Pattern
 
 ## 1. 패턴 이름 (Pattern Name)

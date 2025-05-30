@@ -1,4 +1,4 @@
-
+<!-- pattern_name: 구조 패턴이란? -->
 # 🧱 Introduction to Structural Design Patterns
 
 ### **📘 구조 패턴**

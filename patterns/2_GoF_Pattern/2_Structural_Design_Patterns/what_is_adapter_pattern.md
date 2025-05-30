@@ -1,3 +1,5 @@
+<!-- pattern_name: Adapter -->
+
 ## 1. 패턴 이름 (Pattern Name)
 
 **Adapter (어댑터) 패턴**  
