@@ -19,6 +19,7 @@
 
 ### Structural Design Patterns
 * [Adapter ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_adapter_pattern.md)
+* [Bridge ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_bridge_pattern.md)
 * [Composite ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_composite_pattern.md)
 * [Decorator ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_decorator_pattern.md)
 * [Facade ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_facade_pattern.md)
