@@ -1,0 +1,19 @@
+name: Edit README.md
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  generate-readme:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Make Script Executable
+        run: chmod +x ./generate_readme.sh
+
+      - name: Run Readme Generator Script
+        run: ./generate_readme.sh
