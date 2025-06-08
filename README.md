@@ -24,6 +24,7 @@
 * [Decorator ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_decorator_pattern.md)
 * [Facade ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_facade_pattern.md)
 * [Flyweight ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_flyweight_pattern.md)
+* [Proxy ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_proxy_pattern.md)
 
 ---
 * [패턴을 정리하는 템플릿입니다.](https://github.com/hyunwook13/Pattern/blob/main/Template.md "템플릿")
