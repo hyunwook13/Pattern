@@ -19,11 +19,11 @@
 ## 3. 구조 (Structure)
 
 -   클래스 어댑터:
-    ![클래스 어댑터 구조](https://github.com/hyunwook13/Pattern/blob/main/assets/class-adapter.jpeg)
+    ![클래스 어댑터 구조](https://github.com/hyunwook13/Pattern/blob/main/assets/class_adapter.jpeg)
 
 
 -   객체 어댑터:
-    ![객체 어댑터 구조](https://github.com/hyunwook13/Pattern/blob/main/assets/object-adapter)
+    ![객체 어댑터 구조](https://github.com/hyunwook13/Pattern/blob/main/assets/object_adapter.jpeg)
 
     
 
