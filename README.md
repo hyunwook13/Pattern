@@ -28,6 +28,7 @@
 * [Proxy ](patterns/2_GoF_Pattern/2_Structural_Design_Patterns/what_is_proxy_pattern.md)
 
 ### Behavioral Design Patterns
+* [Chain of Responsibility ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_chain_of_responsibility_pattern.md)
 * [Command ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_command_pattern.md)
 
 ---
