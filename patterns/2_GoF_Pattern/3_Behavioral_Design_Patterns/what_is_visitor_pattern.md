@@ -102,13 +102,3 @@
     
 -   Decorator – 기능 누적 vs Visitor는 외부 연산 추가
     
-
-  
-
-## **12. 실제 사용 사례 (Known Uses)**
-
--   LLVM/Clang: AST 타입 체크, IR 생성, 최적화
-    
--   Android Lint: 레이아웃 트리 분석 후 경고 수집
-    
--   Jackson Parser: 토큰 → 객체 매핑에 Visitor 활용
