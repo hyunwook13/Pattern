@@ -30,6 +30,7 @@
 ### Behavioral Design Patterns
 * [Chain of Responsibility ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_chain_of_responsibility_pattern.md)
 * [Command ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_command_pattern.md)
+* [Iterator ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_iterator_pattern.md)
 * [Visitor ](patterns/2_GoF_Pattern/3_Behavioral_Design_Patterns/what_is_visitor_pattern.md)
 
 ---
